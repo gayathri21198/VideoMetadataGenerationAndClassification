@@ -1,6 +1,5 @@
 # VideoMetadataGenerationAndClassification
 
-
 ## Problem Statement
 This project aims to address the following problem at hand which involves the categorization of video documentaries related to various ISRO missions and programs. The existing collection of video programs requires extensive metadata generation and verification in order to facilitate effective organization and retrieval. By developing an automated system that can analyze objects, text, speech, and named entities to classify the videos into distinct genres. These genres include launch programs, interviews, educational programs, outdoor shots, public shots, traffic, and more. By leveraging deep learning methods, the system should be capable of understanding the visual and textual content of the videos to accurately assign appropriate genre labels.
 
